@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<stdbool.h>
+#include<string.h>
 
 // int main(){
 //     int n,copy,reminder,sum=0,power=0;
