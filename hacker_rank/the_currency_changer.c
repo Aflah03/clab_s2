@@ -4,6 +4,8 @@
 #include <math.h>
 #include <stdlib.h>
 
+this i scrazy man
+
 int main() {
 
     int n,amount,num_of_each,i;
