@@ -2,7 +2,7 @@
 #include<math.h>
 #include<stdbool.h>
 #include<string.h>
-
+//let me just pull thihs line
 // int main(){
 //     int n,copy,reminder,sum=0,power=0;
 //     printf("Enter the number: ");
